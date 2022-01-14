@@ -1,0 +1,8 @@
+## prblm-sh.github.io repo .gitignore
+
+# exclude everything obsidian related for this repo
+.obsidian
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
