@@ -10,3 +10,7 @@
 # Ignore jekyll build files
 .jekyll-cache
 _site
+
+# ignore local ruby files
+Gemfile
+Gemfile.lock
