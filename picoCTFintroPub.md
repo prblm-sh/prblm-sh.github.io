@@ -1,3 +1,9 @@
+---
+layout: post
+title: "PAGE TITLE"
+permalink: /picointro.html/
+---
+
 # Intro
 [PicoCTF](https://picoctf.org/) is a 'capture-the-flag' computer security competition hosted by Carnegie Mellon University. While there is a timed competition that takes place typically once a year, the CTF is available for free year round. 
 
