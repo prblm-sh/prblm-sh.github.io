@@ -1,0 +1,16 @@
+## prblm-sh.github.io repo .gitignore
+
+# ignore everything obsidian related for this repo
+.obsidian
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
+
+# Ignore jekyll build files
+.jekyll-cache
+_site
+
+# ignore local ruby files
+Gemfile
+Gemfile.lock

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "PAGE TITLE"
+title: "Pico CTF"
 permalink: /picointro.html/
+author: A. Problem
 ---
 
 # Intro
