@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Static Ain't Always Noise
 author: A. Problem
 ---
 
