@@ -1,2 +1,4 @@
 # prblm-sh.github.io
-This is a personal GitHub Page. I know not that which of value is here. 
+What are you still doing here?
+
+You should be on [the real page](https://prblm-sh.github.io/)
