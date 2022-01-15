@@ -11,6 +11,8 @@ permalink: obedientcat.html
 | Obedient Cat | General Skills |   5    |   3   |
 
 
+[Link to Challenge](https://play.picoctf.org/practice/challenge/147)
+
 ## Description
 Author: syreal
 
