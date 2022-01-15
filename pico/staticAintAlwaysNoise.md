@@ -4,7 +4,6 @@ title:
 author: A. Problem
 ---
 
-# Static Ain't Always Noise
 
 |           Name            |    Category    | Points | Hints |
 |:-------------------------:|:--------------:|:------:|:-----:|
