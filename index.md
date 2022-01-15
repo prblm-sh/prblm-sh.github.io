@@ -5,7 +5,7 @@ author: A. Problem
 ---
 
 Hey! I'm Chris!
-Whatever godforsaken google search led you here, welcome! Let's create and solve some problems!
+Welcome from page 36 of $searchEngine! Let's create and solve some problems!
 
 This page is very much a work in progress, comes with no warranty, and is likely to contain chemicals known to the State of California to cause cancer, birth defects, or other reproductive harm.
 
