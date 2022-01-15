@@ -24,5 +24,7 @@ Here's my writeups for individual challenges in PicoCTF. See the [PicoCTF Intro]
 ## [General Skills](https://play.picoctf.org/practice?category=5&page=1)
 [Obedient Cat]({% link pico/obedientCat.md%})
 
+[Static Ain't Always Noise]({% link pico/staticAintAlwaysNoise.md%})
+
 
 ## [Binary Exploitation](https://play.picoctf.org/practice?category=6&page=1)
