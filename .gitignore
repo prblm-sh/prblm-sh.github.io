@@ -14,3 +14,6 @@ _site
 # ignore local ruby files
 Gemfile
 Gemfile.lock
+
+# ignore template files
+templates
