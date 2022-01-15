@@ -35,7 +35,11 @@ Once you're logged into the webshell, you can proceed with any challenge you lik
 # Challenge workflow
 While you may find or already have an approach that works for you, I like to keep every challenge separate from each other. This means that each challenge gets it's own folder in a parent 'picoCTF' folder for challenge files, and each gets their own note.
 
-In order to stream line this, to start a challenge I right-click -> 'Copy Link' on the download link for file(s) for the challenge, and then run `wget https://mercury.picoctf.net/static/fb851c1858cc762bd4eed569013d7f00/flag` (this is the file for the "Obedient Cat" challenge) after pasting the link into the terminal. This should be doable with either another right click, or using `shift + control + V`. Doing so downloads the file directly to the folder you're shell is currently in, and allows you to skip having to move files from your downloads directory to the directory you'll actually be working in. 
+In order to stream line this, to start a challenge I right-click -> 'Copy Link' on the download link for file(s) for the challenge, and then run 
+```bash
+wget https://mercury.picoctf.net/static/fb851c1858cc762bd4eed569013d7f00/flag
+```
+(this is the file for the "Obedient Cat" challenge) after pasting the link into the terminal. This should be doable with either another right click, or using `shift + control + V`. Doing so downloads the file directly to the folder you're shell is currently in, and allows you to skip having to move files from your downloads directory to the directory you'll actually be working in. 
 
 If you're using the webshell, be sure to run `cat README.txt` to further familiarize yourself with environment, as well as some more helpful tips specific to completing challenges.
 
@@ -48,6 +52,8 @@ I'm running through the challenges from a Fedora 35 linux install, using the ZSH
 The "first" challenge is named "Obedient Cat," worth 5 points. To start, create a new folder called picoCTF/obedientCat (spaces in filenames can cause a lot of headaches on linux systems) using `mkdir -p picoCTF/obedientCat`. This will create a new directory called 'picoCTF' if it doesn't already exist (the `-p` command flag) and then a sub-directory named 'obedientCat'. Use the `cd` (change directory) command to move into the new directory (`cd picoCTF/obedientCat`). Click on the challenge square, read the description, and use `wget` to download the file (right-click and select copy the download link from the menu, then paste the link into your terminal), in this case `wget https://mercury.picoctf.net/static/fb851c1858cc762bd4eed569013d7f00/flag`.
 
 Once you've found the flag, copy the text and submit it in the challenge box. You'll be notified if the flag text is correct, and your score in the upper-right corner will increase.
+
+For more write-ups, head over [here]({% link pico/writeupdir.md%})
 
 # Fair Play
 Remember, the point of this, and every other CTF, is for *you* to learn. While I'm writing this with the intent of being a step-by-step explanation of how to complete various challenges, you will learn much, *much more* solving the challenges on your own, and only using write-ups like this to help point you in the right direction, or figure out if you're going down the entirely wrong rabbit-hole.
