@@ -17,3 +17,10 @@ Gemfile.lock
 
 # ignore template files
 templates
+
+# Ignore Cache
+.sass-cache
+
+# Ignore Bundle
+.bundle
+vendor

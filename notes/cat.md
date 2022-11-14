@@ -1,0 +1,1 @@
+`cat` is a standard \*unix command to concatenate the contents of a file to [stdout]({% link notes/stdout.md%})

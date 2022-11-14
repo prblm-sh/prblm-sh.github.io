@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Problems"
-author: A. Problem
+title: "Hacks, Snacks, Boom Bap, Jazz, and Trap"
+author: Chris Meinhold, "Ex Salted"
 ---
 
-Hey! I'm Chris!
-Welcome from page 36 of $searchEngine! Let's create and solve some problems!
+# Scripts, Sautees, and Sound Production
+I got my start on a computer as a child with Windows 95, started honing a craft in the kitchen at 8 years old, and ran live sound for 
+Live Theatre Musical productions with up to 21 wireless mics as a freshmen and sophemore in highschool.
 
-This page is very much a work in progress, comes with no warranty, and is likely to contain chemicals known to the State of California to cause cancer, birth defects, or other reproductive harm.
 
-I'm comfy with just about all things Linux, breaking my own installation, and maybe yours! I like hacks, boom bap, and tiling window managers.
-All exploits should be written in 5/8 time, in the key of AAAAAAAAAAAAAAAAAAAAA.
+Well versed in all varieties of Linux, comfortable with python (and more so by the day with Rust), and most areas
+of IT Security, and moonlighting as a Producer under the moniker 'Ex Salted' (Now with legal serial numbers!).
 
-See [this page for an intro to PicoCTF]({% link pico/picoCTFintro.md %}), or go straight to a specific [challenge writeup here]({% link pico/writeupdir.md%})
+For a sample of technical writing, start with my writeups for various badges 
+earned from [PentesterLab]({% link notes/pentesterLab.md%}) or my [Introduction to PicoCTF]({% link notes/picoCTFintro.md%})
+
+
+For current production/instrumental work, see [Ex Salted SoundCloud](https://soundcloud.com/exsalted)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1480092133&color=%23674dc4&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/exsalted" title="Ex Salted" target="_blank" style="color: #cccccc; text-decoration: none;">Ex Salted</a> · <a href="https://soundcloud.com/exsalted/sets/means-of-production-vol-1" title="Means of Production Vol 1" target="_blank" style="color: #cccccc; text-decoration: none;">Means of Production Vol 1</a></div>
