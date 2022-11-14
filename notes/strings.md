@@ -1,0 +1,1 @@
+`strings` is a linux program that will scan any file type (including, and especially binaries) searching for any printable characters within the program.

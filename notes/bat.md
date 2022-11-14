@@ -1,0 +1,1 @@
+`bat` is a clone of [cat]({% link notes/cat.md%}) with some very helpful extra features. These include syntax-highlighting, git integration, and by default pipes output to a pager to display the file content. 

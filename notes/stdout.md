@@ -1,0 +1,1 @@
+`stdout` is the default output on linux, and refers to text or characters that are to be displayed/printed to the terminal so the user can read it. 
